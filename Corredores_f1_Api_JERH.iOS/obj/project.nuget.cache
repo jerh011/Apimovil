@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eipxhiVtZ7QXLgkWB6+EJWV4RO/KDrpNUoP/AmtdLY/k5P9om6omBCpeU2mn5StFMdnVspNm2y2WhfG+w0+fmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd22\\source\\repos\\Corredores_f1_Api_JERH\\Corredores_f1_Api_JERH.iOS\\Corredores_f1_Api_JERH.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd22\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\cd22\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd22\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd22\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
